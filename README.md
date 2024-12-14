@@ -1,5 +1,7 @@
+<a><p align="center"><img src="https://github.com/akhbarulhadi/photos/blob/main/COMPANY-PHOTOS/logo-company.png" width="150" alt="Laravel Logo"></a></p>
+
 <p style="font-size: 20px;" align="center">
-STORAGE PHOTOS
+STORAGE PHOTOS FOR PT.Catur Inti Darmala
 </p>
 
 ## COMPANY-PHOTOS/
